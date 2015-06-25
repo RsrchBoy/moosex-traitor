@@ -8,7 +8,7 @@ MooseX::Traitor - An alternate way to compose your classes with traits
 
 # VERSION
 
-This document describes version 0.001 of MooseX::Traitor - released June 25, 2015 as part of MooseX-Traitor.
+This document describes version 0.006 of MooseX::Traitor - released June 25, 2015 as part of MooseX-Traitor.
 
 # SYNOPSIS
 
